@@ -1,7 +1,7 @@
 <h1 align="center"> Olá, sou Emanuel Marques👋</h1>
 <ul>
-  <li>🔭 Actualmente estou trabalhando com C#</li>
-  <li>🌱Estou estudando tecnologias Front-end( HTML, CSS, Javascript) e PHP</li>
+  <li>🔭 Actualmente estou trabalhando com C# e Java</li>
+  <li>🌱Estou estudando Desenvolvimento Full Stack na Trybe</li>
   <li>⚡ Curiosidade: Sou apaixonado por tecnologias.</li>
 </ul>
 <h2>Contactos</h2>
@@ -9,7 +9,6 @@
   <a href="https://www.youtube.com/@dctechangola1781" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/dario_clenio" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/emanuel-marques-03376020b" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <!-- <a href="https://discord.gg/924986833031548938" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> -->
  <a href = "mailto:emanuelmarques585@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </div>
 
