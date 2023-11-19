@@ -1,6 +1,6 @@
 <h1 align="center"> Olá, sou Emanuel Marques👋</h1>
 <ul>
-  <li>🔭 Actualmente estou trabalhando com C#</li>
+  <li>🔭 FontEnd Developer</li>
   <li>🌱Estou estudando Desenvolvimento Full Stack na Trybe</li>
   <li>⚡ Curiosidade: Sou apaixonado por tecnologias.</li>
 </ul>
