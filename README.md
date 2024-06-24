@@ -1,7 +1,6 @@
 <h1 align="center"> Olá, sou Emanuel Marques👋</h1>
 <ul>
-  <li>🔭 FontEnd Developer</li>
-  <li>🌱Estou estudando Desenvolvimento Full Stack na Trybe</li>
+  <li>🔭 Fullstack Developer</li>
   <li>⚡ Curiosidade: Sou apaixonado por tecnologias.</li>
 </ul>
 <h2>Contactos</h2>
