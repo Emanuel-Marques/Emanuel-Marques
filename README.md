@@ -5,7 +5,7 @@
 </ul>
 
 <h2>Linguagens e Tecnologias</h2>
-<div style="display: inline_block"><br>
+<div style="display: inline_block">
   <h4>💼 Principais Stacks:</h4><br>
   <img align="center" alt="Emanuel-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />
   <img align="center" alt="Emanuel-Spring" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg" />
@@ -38,7 +38,8 @@
 </div>
 
 <h2>Contactos</h2>
-<div> 💡Sempre em busca de crescer e aprender — se quiser trocar uma ideia, é só chamar por aqui!.<br></div>
+<div> 💡Sempre em busca de crescer e aprender — se quiser trocar uma ideia, é só chamar por aqui!.</div>
+<br>
 <div> 
   <a href="https://www.youtube.com/@dctechangola1781" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/dario_clenio" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
