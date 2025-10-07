@@ -38,7 +38,7 @@
 </div>
 
 <h2>Contactos</h2>
-<div> 💡Sempre em busca de crescer e aprender — se quiser trocar uma ideia, é só chamar por aqui!.</div>
+<div> 💡Sempre em busca de crescer e aprender — se quiser trocar uma ideia, é só chamar por aqui!.<br></div>
 <div> 
   <a href="https://www.youtube.com/@dctechangola1781" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/dario_clenio" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
